@@ -1,0 +1,16 @@
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+Debug/
+Release/
+*.vcxproj.user
